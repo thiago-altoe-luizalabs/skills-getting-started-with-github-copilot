@@ -1,0 +1,12 @@
+1. Create a new branch:
+    ```bash
+    git checkout -b your-branch-name
+    ```
+2. Push the branch to the remote repository:
+    ```bash
+    git push -u origin your-branch-name
+    ```
+
+Replace `your-branch-name` with your desired branch name.
+
+
